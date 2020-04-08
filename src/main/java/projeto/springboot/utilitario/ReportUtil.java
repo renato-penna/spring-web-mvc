@@ -1,4 +1,4 @@
-package projeto.psringboot.utilitario;
+package projeto.springboot.utilitario;
 
 import java.io.File;
 import java.io.Serializable;
